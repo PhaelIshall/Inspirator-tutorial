@@ -1,8 +1,6 @@
 # Inspirational Quotes Generator App: Inspirator
 
-Congratulations for finishing our *playgrounds* that dealt with the basics of the swift language! Now is the time to turn to more practical knowledge that has to do with *app design and programming in Xcode* 
-
-In this section, we would like to build a simple single view app that generates inspirational quotes for the user. This is what you will learn in this tutorial:
+This is a tutorial for beginners to make their first iOS application! There are step by step explanations of the environment that you will be coding in and how to get started. Please note that not all aspected of the IDE (Xcode) are explained here but only the ones relevant to the tutorial. Have fun!
 	
 **Part I**:
 - Creating a new Xcode project
@@ -11,7 +9,7 @@ In this section, we would like to build a simple single view app that generates 
 - Use an array of quotes to generate the data on the screen
 - Add an app icon to your project
 
-**Part II**:
+**Part II**: (Not available now)
 
 - Use a photo as a background 
 - Use API to retrieve more quotes from a website
@@ -99,7 +97,6 @@ The first major concepts to learn about are **View Controllers**. They are the m
 
 The storyboard itself has 4 main areas as well. We will discover them when we need them in this tutorial. So let's start this task by adding the **label** that will be initiated with **Would you like some inspiration?** and adding the **button** that says **inspire me**. 
 
-----------------------------------------------Incomplete ---------------------------------------------------------
 ### 1. Add button
 
 Every element we add to our app already has documentation created by Apple to guide us. For instance, here's the documentation for **UIButton**: https://developer.apple.com/documentation/uikit/uibutton 
@@ -209,11 +206,6 @@ Let's add a function that will randomly select a quote for us and display it on 
 }
 ```
 
-### 4. Editor Area
-### 5. Utilities
-
--------------------------------------------------Incomplete ---------------------------------------------------------
-
 ## Final Touches:
 
 Finally, let's add our logo to the project. You can find the logos in the folder *Images/Icon-set*. There are many photos because we want to add different sizes of the icon for different purposes. Go to the Xcode project and open **Assets.xcassets** then **AppIcon**. Drag and drop the images one by one to its corresponing spot. Here's what that looks like: 
@@ -221,10 +213,3 @@ Finally, let's add our logo to the project. You can find the logos in the folder
 
  <img src="https://github.com/PhaelIshall/InspirationalQuotesGeneratorApp/blob/master/Images/logo1.png">
  
- 
- 
- 
--------------------------------------------------Incomplete ---------------------------------------------------------
-
- Xcode project file 
--> change app name 
