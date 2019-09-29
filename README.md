@@ -23,7 +23,7 @@ Xcode doesn't only allow us to write and build code like we used for playgrounds
 ## Let's get started: New Project
 This is the app we will be making in this tutorial: 
 <p float="center">
- <img src="https://github.com/PhaelIshall/Inspirator-tutorial-code.Pitch/master/Images/s1.png" width="30%" height="30%">
+ <img src="https://github.com/PhaelIshall/Inspirator-tutorial-code.Pitch/blob/master/Images/s1.png" width="30%" height="30%">
  <img src="https://github.com/PhaelIshall/Inspirator-tutorial-code.Pitch/blob/master/Images/s2.png" width="30%" height="30%">
  <img src="https://github.com/PhaelIshall/Inspirator-tutorial-code.Pitch/blob/master/Images/s3.png" width="30%" height="30%">
 </p>
@@ -49,7 +49,7 @@ Bundle Indetifier is more consequencial and it is automatically generated from t
 
 ## Xcode tour
 ### 1. Main Areas
- <img src="https://github.com/PhaelIshall/InspirationalQuotesGeneratorApp/blob/master/Images/main_xcode.png">
+ <img src="https://github.com/PhaelIshall/Inspirator-tutorial-code.Pitch/blob/master/Images/main_xcode.png">
  
 **Toolbar (Yellow)**: Run/stop project or select scheme. See project status. 
 **Navigator (Green)**: Navigate files, folders and see errors
@@ -58,7 +58,7 @@ Bundle Indetifier is more consequencial and it is automatically generated from t
 **Debug Area (Blue)**: for testing and debugging at runtime.
 
 ### 2. The toolbar
- <img src="https://github.com/PhaelIshall/InspirationalQuotesGeneratorApp/blob/master/Images/n.png">
+ <img src="https://github.com/PhaelIshall/Inspirator-tutorial-code.Pitch/blob/master/Images/n.png">
 It contains a lot of important information about the status of your project, so it's always good to keep an eye out for errors or warnings that show it the toolbar. Let's take a quick look at it from right to left: 
 
 | Screenshot| Explanation | 
